@@ -1,4 +1,4 @@
-# Dsa Practice Repo 
+# Dsa Practice Repo (C++)
 
 ## This GitHub repository for practiced Data Structure and Algorithms problems and solution.
 
