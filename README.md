@@ -1,6 +1,6 @@
 # Dsa Practice Repo 
 
-This GitHub repository for practiced Data Structure and Algorithms problems and solution.
+## This GitHub repository for practiced Data Structure and Algorithms problems and solution.
 
 |  S.No.  |            Topic Repo              |      Link      |
 | :-----: |------------------------------------|----------------|
