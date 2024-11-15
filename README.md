@@ -81,7 +81,7 @@ We welcome contributions to enhance this repository. Here’s how you can help:
 For queries or suggestions, feel free to reach out to me:
 
 - **GitHub**: [@rajeevranjan413](https://github.com/rajeevranjan413)
-- **Email**: rajeev.ranjan@example.com
+- **Email**: rajuranjan413@gmail.com
 
 Happy Coding! 🚀
 
