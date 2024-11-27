@@ -52,7 +52,7 @@ The repository is divided into multiple topics, each focusing on a specific aspe
 - **C++ Implementations**: Focuses on efficient coding solutions in C++.
 - **Problem-Solving Practice**: Offers hands-on experience with various DSA concepts.
 - **Easy Navigation**: Well-organized folders and links for seamless access.
-- **Scalable**: Regular updates and new additions (e.g., Graphs and Dynamic Programming coming soon!).
+- **Scalable**: Regular updates and new additions (Graphs and Dynamic Programming coming soon!).
 
 ---
 
