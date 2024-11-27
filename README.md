@@ -72,7 +72,6 @@ We welcome contributions to enhance this repository. Here’s how you can help:
 2. Create a new branch for your changes (`git checkout -b feature/new-topic`).
 3. Add your solutions or improve existing ones.
 4. Commit and push your changes.
-5. Open a pull request for review.
 
 ---
 
